@@ -60,17 +60,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/emojis\/abraham.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18902,
-		"inputAbbreviatedPath": "\/img\/emojis\/abraham.jpg",
-		"outputAbbreviatedPath": "\/img\/emojis\/abraham.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/emojis\/electric-light-bulb.png": {
 		"fileType": 32768,
 		"ignore": 0,
