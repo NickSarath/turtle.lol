@@ -39,6 +39,9 @@
   transition: all .15s ease-out;
 }
 
+.mr3 {
+  margin-right: .75rem;
+}
 .mw26 {
   max-width: 26rem;
 }
