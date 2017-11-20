@@ -58,16 +58,29 @@
 }
 
 
-@media (max-width:520px) {
+@media (max-width:472px) {
   .clip-s {
     position: fixed !important;
     _position: absolute !important;
     clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
     clip: rect(1px, 1px, 1px, 1px);
   }
+
+  .nav-fixed {
+      position: fixed;
+      bottom: 0px;
+      margin: 0;
+      padding: 1rem;
+      background-color: white;
+  }
+
+  .nav-fixed > a {
+    font-size: 1.25rem;
+    line-height: 4rem;
+    display: block;
+    color: black;
+  }
 }
-
-
 
 @-webkit-keyframes fadeIn {
   0% {
