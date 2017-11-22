@@ -2,6 +2,12 @@
   background-color: #32DFC5;
 }
 
+.bg-green-gradient {
+  background: linear-gradient(to right, #0072ff, #00c6ff);
+    background: -moz-linear-gradient(to right, #0072ff, #00c6ff);
+    background: -o-linear-gradient(to right, #0072ff, #00c6ff);
+}
+
 .turtle-green {
   color: #1FC5AC;
 
@@ -94,8 +100,8 @@ a {
   }
 
   .nav-fixed > a {
-    font-size: 1.25rem;
-    line-height: 3.5rem;
+    font-size: 1rem;
+    line-height: 2.5rem;
     display: block;
     color: black;
   }
