@@ -39,7 +39,12 @@ a {
 }
 
 .header-img {
-  max-height: 63vh;
+  max-height: 60vh;
+}
+
+.footer {
+  bottom: 0px;
+  display: table-row;
 }
 
 .cta {
