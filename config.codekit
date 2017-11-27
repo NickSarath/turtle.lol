@@ -170,6 +170,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 756,
+		"inputAbbreviatedPath": "\/img\/facebook.png",
+		"outputAbbreviatedPath": "\/img\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/favicon\/android-icon-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -445,6 +456,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2142,
+		"inputAbbreviatedPath": "\/img\/instagram.png",
+		"outputAbbreviatedPath": "\/img\/instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/phone.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -661,6 +683,17 @@
 		"initialSize": 3019,
 		"inputAbbreviatedPath": "\/img\/turtle.png",
 		"outputAbbreviatedPath": "\/img\/turtle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1890,
+		"inputAbbreviatedPath": "\/img\/twitter.png",
+		"outputAbbreviatedPath": "\/img\/twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

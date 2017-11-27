@@ -75,6 +75,10 @@ a {
   max-width: 28rem;
 }
 
+.soft-gray {
+  color: #D8D8D8;
+}
+
 .bg-soft-gray {
   background-color: #F9F9F9;
 }
@@ -87,6 +91,26 @@ a {
   color: #9D9D9D;
 }
 
+
+.footer-fixed {
+  position: fixed;
+  bottom: 0px;
+  margin: 0;
+  padding: 1rem;
+  background-color: white;
+}
+
+
+
+.footer-absolute {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
 
 @media (max-width:472px) {
   .clip-s {
